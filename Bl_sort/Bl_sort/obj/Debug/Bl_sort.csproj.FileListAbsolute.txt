@@ -1,0 +1,18 @@
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe.config
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\obj\Debug\Bl_sort.csprojResolveAssemblyReference.cache
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\bin\Debug\Bl_sort.pdb
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\obj\Debug\Bl_sort.exe
+C:\Users\stefa\OneDrive\Documenti\Scuola\informatica\Agrusti Stefano 3I1\Bl_sort\Bl_sort\obj\Debug\Bl_sort.pdb
+F:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe.config
+F:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.exe
+F:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.pdb
+F:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe
+F:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.pdb
+F:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.csprojResolveAssemblyReference.cache
+D:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe.config
+D:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.exe
+D:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.pdb
+D:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.exe
+D:\Bl_sort\Bl_sort\bin\Debug\Bl_sort.pdb
+D:\Bl_sort\Bl_sort\obj\Debug\Bl_sort.csprojResolveAssemblyReference.cache
